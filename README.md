@@ -10,5 +10,3 @@
 - [31 Alejandro](https://agarrido04.github.io/)
 - [45 Neil](https://galan170.github.io)
 - [46 Arnau](https://arnaudaw.github.io/)
-
-siii
